@@ -1,0 +1,8 @@
+C:\Users\guilh\OneDrive\Documentos\Exercicio\Exercicio\Bau_36365\Bau_36365\bin\Release\Bau_36365.exe.config
+C:\Users\guilh\OneDrive\Documentos\Exercicio\Exercicio\Bau_36365\Bau_36365\bin\Release\Bau_36365.exe
+C:\Users\guilh\OneDrive\Documentos\Exercicio\Exercicio\Bau_36365\Bau_36365\bin\Release\Bau_36365.pdb
+C:\Users\guilh\OneDrive\Documentos\Exercicio\Exercicio\Bau_36365\Bau_36365\obj\Release\Bau_36365.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Exercicio\Exercicio\Bau_36365\Bau_36365\obj\Release\Bau_36365.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\OneDrive\Documentos\Exercicio\Exercicio\Bau_36365\Bau_36365\obj\Release\Bau_36365.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Exercicio\Exercicio\Bau_36365\Bau_36365\obj\Release\Bau_36365.exe
+C:\Users\guilh\OneDrive\Documentos\Exercicio\Exercicio\Bau_36365\Bau_36365\obj\Release\Bau_36365.pdb
